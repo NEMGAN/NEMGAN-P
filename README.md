@@ -1,1 +1,18 @@
 # NEMGAN-P
+Code release for ICCV paper
+
+## Dependencies
+
+Python version: 2.7
+
+Tensoeflow: 1.5.0
+
+Keras: >= 2.0
+
+## Usage
+
+Step 1. Create 'fmnist' directory in home directory
+
+Step 2. Download FMNIST dataset in the 'fmnist' directory
+
+Step 3. $ python NEMGAN_P.py
