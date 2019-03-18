@@ -1,5 +1,5 @@
 # NEMGAN-P
-Code release for ICCV paper
+Code release for ICCV paper for FMNIST-5 experiment
 
 ## Dependencies
 
