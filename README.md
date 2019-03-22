@@ -1,5 +1,5 @@
 # NEMGAN-P
-Code release for ICCV paper for FMNIST-5 experiment
+Code release for FMNIST-5 experiment
 
 ## Dependencies
 
@@ -15,4 +15,4 @@ Step 1. Create 'fmnist' directory in home directory
 
 Step 2. Download FMNIST dataset in the 'fmnist' directory
 
-Step 3. $ python NEMGAN_P.py
+Step 3. $ python nemganp_fmnist_5.py
